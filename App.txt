@@ -1,0 +1,17 @@
+my-app/
+├── node_modules/
+├── public/
+├── src/
+│   ├── components/
+│   │   ├── Login.js
+│   │   ├── Search.js
+│   │   ├── Dashboard.js
+│   │   ├── APIDocumentation.js
+│   │   ├── APITest.js
+│   │   ├── IntegrationManagement.js
+│   ├── App.js
+│   ├── config.js
+│   ├── index.js
+│   └── ... (other boilerplate files)
+├── package.json
+└── ... (other boilerplate files)
